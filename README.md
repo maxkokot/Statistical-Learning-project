@@ -11,7 +11,6 @@ UNIPD, 2023
 ## Usage
 
 Put "bank-additional-full.csv" into data folder.
-For running model's fitting use src/train_pipeline.py
 
 Project Organization
 ------------
